@@ -1,4 +1,4 @@
-require '/Users/jd/Documents/applicationDevelopment/flatiron/web/oo-kickstarter-cb-000/lib/self_aware.rb'
+require '/home/stritch-52043/code/labs/oo-kickstarter-cb-000/lib/selfAware.rb'
 # implementing for lab
 class Project < SelfAware
   def title

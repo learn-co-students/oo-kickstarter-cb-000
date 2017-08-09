@@ -1,4 +1,4 @@
-require '/Users/jd/Documents/applicationDevelopment/flatiron/web/oo-kickstarter-cb-000/lib/self_aware.rb'
+require '/home/stritch-52043/code/labs/oo-kickstarter-cb-000/lib/selfAware.rb'
 # borrowing code from https://github.com/stritch-dev/ruby-advanced-class-methods-lab-cb-000/blob/solution/lib/song.rb
 class Backer < SelfAware
   def back_project(project)
