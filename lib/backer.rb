@@ -7,4 +7,9 @@ class Backer
     @name = name
     @backed_projects = []
   end
+
+  # accepts a Project as an argument and stores it in a backed_projects array
+  def back_project(project)
+    backed_projects << project
+  end
 end
